@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Helpdesk App",
-  description: "Created with Next JS",
+  description: "Helpdesk App",
 };
 
 export default function RootLayout({ children }) {
