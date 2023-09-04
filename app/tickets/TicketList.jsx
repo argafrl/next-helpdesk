@@ -16,7 +16,7 @@ export default async function TicketList() {
             {ticket.priority} priority
           </div>
           {tickets.length === 0 && (
-            <p className="text-center">There are no open tickets</p>
+            <p className="italic text-center">There are no open tickets</p>
           )}
         </div>;
       })}
