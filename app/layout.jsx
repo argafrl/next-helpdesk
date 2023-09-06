@@ -7,8 +7,8 @@ import Navbar from "./components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Helpdesk App",
-  description: "Helpdesk App",
+  title: "Helpdesk",
+  description: "Helpdesk",
 };
 
 export default function RootLayout({ children }) {
